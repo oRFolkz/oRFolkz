@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello, My name is Fabio, but you can call me 'Folkz' 👋
 ❤️ Coding, Gym and Coffe
 
 ### 👨‍🦱 About me
@@ -10,7 +10,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oRFolkz&repo=ABF-REACT&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 📚 Tools
+### 📚 Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oRFolkz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
